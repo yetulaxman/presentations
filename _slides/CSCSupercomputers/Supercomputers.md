@@ -1,10 +1,10 @@
 ---
-title:  Example slides for layout testing
-author: CSC Training
-date:   2019-02
-lang:   en
+title: Supercomputers @ CSC
+author: juha.lento@csc.fi
+presentation-date: 2019-01-21
+layout: reveal
+reveal-theme: sky
 ---
-
 
 # Font size and weight
 
